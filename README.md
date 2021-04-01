@@ -129,5 +129,5 @@ See the [test suite](./test/) of this package for sample uses of these functions
 
 ---------
 
-Author: Masa Sakano, [Wise Babel Ltd](http://www.wisebabel.com); MIT License (see [License.txt](./License.txt))
+Author: Masa Sakano, [Wise Babel Ltd](http://www.wisebabel.com); MIT License (see [LICENSE.txt](./LICENSE.txt))
 
